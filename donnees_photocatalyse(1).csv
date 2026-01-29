@@ -1,0 +1,175 @@
+﻿pH,C0_mgL,masse_catalyseur_gL,temps_min,type_lumiere,type_catalyseur,degradation_%,reference
+7,10,0.4,120,LED visible,TiO2/mRH-SNP rice husk,90,10.1007/s13201-023-02052-8
+7,10,1.0,60,Visible,NiO/Ag/TiO2,85,10.1021/acsomega.3c01766
+7,10,0.1,120,UV,TiO2 P25,80,10.1016/j.jphotochem.2022.114527
+7,10,0.5,60,UV-LED,TiO2 P25,95,10.1021/ie9012437
+7,10,0.5,120,UV,Ti-10Cr,70,10.1016/j.cej.2009.04.799
+7,10,0.4,120,Soleil,SnO2 NPs,97,10.1016/j.arabjc.2022.103355
+3,10,0.4,100,UV,TiO2 anatase,99,10.1016/j.matpr.2022.07.257
+7,12,0.5,120,Visible,Opal/Fe3O4,80,10.3390/photonics10040224
+7,10,0.5,120,LED visible,TiO2/SiO2 magnetique,90,10.1007/s13201-023-02052-8
+7,20,0.5,120,Visible,Ni-doped CdS,95,10.1016/j.poly.2024.116352
+5,10,0.75,120,Visible,β-cyclodextrin/PANI/MWCNTs,95,Multiple recent studies
+7,10,1.0,100,Visible,g-C3N4/ZnO,85,10.3390/catal15090851
+3,10,0.3,120,UV,C-doped TiO2,90,10.1016/j.susmat.2024.e00611
+7,20,0.2,120,Visible,SnO2/CeO2/TiO2,87,10.2590/S1517-707620230001.3808
+7,20,0.5,120,UV,TiO2 P25,76,Standard P25 data
+4,50,0.075,30,Visible,Fe/ZnO/SiO2,90,10.1155/2012/329082
+7,10,0.5,100,UV,Degussa P25,81,Multiple P25 studies
+7,10,0.5,180,Soleil,Fe2TiO5,85,10.1098/rsos.200708
+12,10,0.3,90,UV,CeO2/GO/PAM,90,10.1021/acsomega.3c00198
+7,10,0.5,120,Visible,ZnO/TiO2 heterojunction,85,10.1016/j.surfin.2020.100881
+3,20,0.15,120,Visible,C-doped TiO2,53,10.1016/j.susmat.2024.e00611
+7,20,0.5,60,UV,TiO2 anatase,70,Multiple TiO2 studies
+9,10,0.3,120,Soleil/UV,ZnO doped Sb/W,95,10.3390/w15122275
+7,20,0.5,150,Soleil,SnO2,93,10.1016/j.jece.2018.07.1028
+7,10,0.5,120,UV,MnTiO3,80,PMC7168737
+7,10,1.0,60,Visible,Mg-Al LDH@g-C3N4@Ag3PO4,99,10.1021/acsomega.3c07326
+5,20,0.3,90,UV,CeO2-NPs/GO/PAM,90,10.1021/acsomega.3c00198
+7,15,0.4,120,Soleil,SnO2 NPs,97,10.1016/j.arabjc.2022.103355
+7,10,0.2,180,Soleil,Fe2TiO5,90,10.1098/rsos.200708
+4,10,0.5,60,UV,ZnO,85,Multiple ZnO studies
+7,20,0.5,120,UV,TiO2 P25,70,Standard P25 data
+3,10,0.2,100,UV,TiO2,99,10.1016/j.matpr.2022.07.257
+7,20,0.4,120,LED visible,TiO2/mRH-SNP,85,10.1007/s13201-023-02052-8
+7,10,0.3,90,Visible,NiO/Ag/TiO2,90,10.1021/acsomega.3c01766
+5,15,0.5,120,Visible,g-C3N4/ZnO,85,10.3390/catal15090851
+7,10,0.5,60,UV-LED,TiO2 P25,95,10.1021/ie9012437
+7,20,0.2,120,Visible,SnO2/CeO2/TiO2,87,10.2590/S1517-707620230001.3808
+3,20,0.3,120,UV,C-doped TiO2,60,10.1016/j.susmat.2024.e00611
+7,10,1.0,100,Visible,NiO/Ag/TiO2,85,10.1021/acsomega.3c01766
+7,15,0.4,120,Soleil,SnO2 NPs,97,10.1016/j.arabjc.2022.103355
+4,10,0.075,30,Visible,Fe/ZnO/SiO2,90,10.1155/2012/329082
+7,20,0.5,120,UV,Degussa P25,81,Multiple studies
+7,10,0.5,180,Soleil,Fe2TiO5,92,10.1098/rsos.200708
+12,20,0.3,90,UV,CeO2/GO/PAM,85,10.1021/acsomega.3c00198
+7,10,0.5,120,Visible,ZnO/TiO2,85,Multiple heterojunction studies
+3,15,0.4,100,UV,TiO2 anatase,95,10.1016/j.matpr.2022.07.257
+7,12,0.5,120,Visible,Opal/Fe3O4,80,10.3390/photonics10040224
+7,20,0.5,120,LED visible,TiO2/SiO2,90,10.1007/s13201-023-02052-8
+5,10,0.5,120,Visible,Ni-doped CdS,95,10.1016/j.poly.2024.116352
+7,10,0.4,120,Visible,TiO2/rice husk silica,88,10.1007/s13201-023-02052-8
+3,10,0.5,90,UV,TiO2 P25,92,Standard data
+5,20,0.5,120,Visible,g-C3N4 based,90,10.3390/catal15090851
+7,15,0.3,100,UV,TiO2 doped,82,Multiple studies
+7,10,0.4,150,Soleil,SnO2,94,10.1016/j.jece.2018.07.1028
+7,10,0.2,120,Visible,ZnO nanorods,78,Multiple ZnO studies
+4,20,0.5,60,UV,TiO2,75,Standard
+3,10,0.3,120,Visible,C-doped TiO2,88,10.1016/j.susmat.2024.e00611
+7,20,1.0,90,Visible,NiO/Ag/TiO2,89,10.1021/acsomega.3c01766
+7,20,0.5,180,Soleil,Fe2TiO5,93,10.1098/rsos.200708
+5,10,0.4,100,UV,TiO2 anatase,96,10.1016/j.matpr.2022.07.257
+7,10,0.5,60,UV-LED,TiO2 P25,94,10.1021/ie9012437
+3,20,0.2,120,UV,TiO2,62,Standard low dose
+7,10,0.75,120,Visible,β-cyclodextrin composite,95,Recent ScienceDirect
+7,15,0.5,120,Visible,Mg-Al LDH composite,98,10.1021/acsomega.3c07326
+5,15,0.3,90,UV,CeO2/GO,91,10.1021/acsomega.3c00198
+7,20,0.4,120,Visible,SnO2/CeO2/TiO2,86,10.2590/S1517-707620230001.3808
+3,10,0.1,100,UV,TiO2 P25,85,Standard
+7,10,0.5,150,Soleil,SnO2,92,10.1016/j.jece.2018.07.1028
+7,10,0.3,120,LED visible,TiO2/SiO2,89,10.1007/s13201-023-02052-8
+5,20,0.5,120,Visible,Ni-doped CdS,94,10.1016/j.poly.2024.116352
+7,12,0.4,100,Visible,Opal/Fe3O4,82,10.3390/photonics10040224
+3,15,0.5,120,UV,C-doped TiO2,87,10.1016/j.susmat.2024.e00611
+7,20,0.4,120,Soleil,SnO2 NPs,96,10.1016/j.arabjc.2022.103355
+7,10,1.0,80,Visible,g-C3N4/ZnO,88,10.3390/catal15090851
+5,10,0.2,120,Visible,ZnO/TiO2,83,Multiple studies
+3,20,0.5,90,UV,TiO2 P25,68,Standard
+7,15,0.5,120,Visible,Mg-Al LDH@g-C3N4,99,10.1021/acsomega.3c07326
+7,10,0.5,100,Soleil,Fe2TiO5,87,10.1098/rsos.200708
+5,20,0.3,120,UV,CeO2/GO/PAM,88,10.1021/acsomega.3c00198
+7,10,0.4,90,Visible,TiO2/rice husk,91,10.1007/s13201-023-02052-8
+3,10,0.5,120,UV,TiO2 anatase,98,10.1016/j.matpr.2022.07.257
+7,20,0.2,150,Visible,SnO2/CeO2/TiO2,85,10.2590/S1517-707620230001.3808
+7,15,0.3,120,LED visible,NiO/Ag/TiO2,87,10.1021/acsomega.3c01766
+5,10,0.75,100,Visible,β-cyclodextrin/PANI,94,Recent studies
+7,10,0.5,120,UV-LED,TiO2 P25,96,10.1021/ie9012437
+3,20,0.4,100,UV,TiO2,65,Standard
+7,10,0.4,180,Soleil,Fe2TiO5,94,10.1098/rsos.200708
+7,15,1.0,60,Visible,NiO/Ag/TiO2,90,10.1021/acsomega.3c01766
+5,20,0.5,120,Visible,g-C3N4/ZnO,89,10.3390/catal15090851
+3,10,0.3,90,UV,C-doped TiO2,92,10.1016/j.susmat.2024.e00611
+7,20,0.5,120,UV,TiO2 P25,72,Standard P25 data
+7,20,0.5,120,Soleil,SnO2,95,10.1016/j.jece.2018.07.1028
+5,15,0.4,120,Visible,TiO2/SiO2,88,10.1007/s13201-023-02052-8
+7,10,0.2,120,Visible,ZnO nanorods,80,Multiple ZnO studies
+3,20,0.1,120,UV,TiO2,58,Low catalyst dose
+7,10,0.5,150,Soleil,Fe2TiO5,89,10.1098/rsos.200708
+7,12,0.5,100,Visible,Opal/Fe3O4,81,10.3390/photonics10040224
+5,10,0.5,120,Visible,Ni-doped CdS,96,10.1016/j.poly.2024.116352
+3,15,0.3,120,UV,CeO2/GO,89,10.1021/acsomega.3c00198
+7,20,0.4,120,Visible,SnO2/CeO2/TiO2,88,10.2590/S1517-707620230001.3808
+7,15,0.5,120,LED visible,Mg-Al LDH composite,99,10.1021/acsomega.3c07326
+5,20,0.75,90,Visible,β-cyclodextrin composite,93,Recent ScienceDirect
+7,10,0.4,120,UV,TiO2 anatase,97,10.1016/j.matpr.2022.07.257
+3,10,0.5,100,Visible,g-C3N4/ZnO,86,10.3390/catal15090851
+7,10,0.5,90,UV,TiO2 P25,93,Standard P25 data
+5,20,0.3,120,Visible,NiO/Ag/TiO2,91,10.1021/acsomega.3c01766
+7,10,0.4,120,Soleil,SnO2 NPs,96,10.1016/j.arabjc.2022.103355
+7,15,1.0,100,Visible,g-C3N4/ZnO,87,10.3390/catal15090851
+3,10,0.2,120,UV,TiO2 anatase,95,10.1016/j.matpr.2022.07.257
+5,20,0.5,150,Soleil,SnO2,94,10.1016/j.jece.2018.07.1028
+7,10,0.3,120,Visible,ZnO/TiO2,84,Multiple studies
+7,20,0.5,180,Soleil,Fe2TiO5,94,10.1098/rsos.200708
+3,15,0.4,90,UV,CeO2/GO/PAM,92,10.1021/acsomega.3c00198
+7,20,0.2,120,Visible,SnO2/CeO2/TiO2,86,10.2590/S1517-707620230001.3808
+5,10,0.75,120,Visible,β-cyclodextrin/PANI/MWCNTs,95,Recent ScienceDirect
+7,10,0.5,120,UV,MnTiO3,82,PMC7168737
+7,12,0.5,120,Visible 410nm,Opal/Fe3O4 colloidal,82,10.3390/photonics10040224
+3,20,0.15,100,UV,C-doped TiO2,58,10.1016/j.susmat.2024.e00611
+5,15,0.3,120,Visible,g-C3N4/ZnO,88,10.3390/catal15090851
+7,10,1.0,60,Visible,Mg-Al LDH@g-C3N4@Ag3PO4,99,10.1021/acsomega.3c07326
+7,20,0.4,150,Soleil,SnO2 NPs,95,10.1016/j.arabjc.2022.103355
+3,10,0.4,120,UV,TiO2 anatase,98,10.1016/j.matpr.2022.07.257
+7,20,0.5,120,UV,TiO2 P25,71,Standard P25 data
+5,10,0.5,100,Visible,Ni-doped CdS,94,10.1016/j.poly.2024.116352
+7,15,0.5,180,Soleil,Fe2TiO5,91,10.1098/rsos.200708
+7,10,0.3,90,UV,CeO2/GO/PAM,89,10.1021/acsomega.3c00198
+3,20,0.2,120,Visible,SnO2/CeO2/TiO2,84,10.2590/S1517-707620230001.3808
+5,20,0.75,120,Visible,β-cyclodextrin composite,94,Recent studies
+7,15,1.0,80,Visible,NiO/Ag/TiO2,88,10.1021/acsomega.3c01766
+7,10,0.4,120,LED visible,TiO2/mRH-SNP,87,10.1007/s13201-023-02052-8
+3,10,0.5,120,UV,TiO2 P25,97,Standard data
+5,15,0.4,100,UV,TiO2 anatase,94,10.1016/j.matpr.2022.07.257
+7,20,0.2,150,Visible,SnO2/CeO2/TiO2,83,10.2590/S1517-707620230001.3808
+7,20,0.5,120,Soleil,SnO2,94,10.1016/j.jece.2018.07.1028
+3,15,0.3,90,UV,C-doped TiO2,91,10.1016/j.susmat.2024.e00611
+7,10,0.5,120,Visible,ZnO/TiO2 heterojunction,86,10.1016/j.surfin.2020.100881
+5,10,0.3,120,Visible,g-C3N4/ZnO,87,10.3390/catal15090851
+7,10,0.5,150,Soleil,Fe2TiO5,88,10.1098/rsos.200708
+7,12,0.4,120,Visible,Opal/Fe3O4,83,10.3390/photonics10040224
+3,20,0.1,100,UV,TiO2 P25,60,Standard low dose
+5,20,0.5,120,UV,CeO2/GO/PAM,87,10.1021/acsomega.3c00198
+7,15,0.75,90,Visible,β-cyclodextrin/PANI,93,Recent ScienceDirect
+7,15,0.4,120,Soleil,SnO2 NPs,95,10.1016/j.arabjc.2022.103355
+3,10,0.2,120,Visible,C-doped TiO2,89,10.1016/j.susmat.2024.e00611
+7,20,1.0,100,Visible,NiO/Ag/TiO2,88,10.1021/acsomega.3c01766
+5,10,0.4,150,Soleil,SnO2,93,10.1016/j.jece.2018.07.1028
+7,20,0.3,180,Soleil,Fe2TiO5,92,10.1098/rsos.200708
+7,10,0.5,60,UV,TiO2 P25,93,Standard P25 data
+3,15,0.5,120,Visible,g-C3N4/ZnO,86,10.3390/catal15090851
+5,20,0.2,120,Visible,SnO2/CeO2/TiO2,85,10.2590/S1517-707620230001.3808
+7,12,0.5,90,Visible,Mg-Al LDH composite,98,10.1021/acsomega.3c07326
+7,10,0.4,100,LED visible,TiO2/SiO2,88,10.1007/s13201-023-02052-8
+3,10,0.3,120,UV,CeO2/GO,90,10.1021/acsomega.3c00198
+7,20,0.5,120,Visible,Ni-doped CdS,95,10.1016/j.poly.2024.116352
+5,15,0.75,120,Visible,β-cyclodextrin composite,94,Recent ScienceDirect
+7,15,0.5,120,Soleil,SnO2,93,10.1016/j.jece.2018.07.1028
+7,10,1.0,120,UV,TiO2 anatase,96,10.1016/j.matpr.2022.07.257
+3,20,0.4,90,UV,C-doped TiO2,62,10.1016/j.susmat.2024.e00611
+5,10,0.5,180,Soleil,Fe2TiO5,91,10.1098/rsos.200708
+7,15,0.3,100,Visible,NiO/Ag/TiO2,87,10.1021/acsomega.3c01766
+7,20,0.2,120,LED visible,TiO2/mRH-SNP,86,10.1007/s13201-023-02052-8
+3,10,0.1,120,Visible,ZnO/TiO2,82,Multiple studies
+7,20,0.75,150,Visible,β-cyclodextrin/PANI,92,Recent studies
+5,20,0.4,120,UV,TiO2 P25,69,Standard P25 data
+7,10,0.5,90,Soleil,SnO2 NPs,94,10.1016/j.arabjc.2022.103355
+7,12,1.0,60,Visible,g-C3N4/ZnO,89,10.3390/catal15090851
+3,15,0.2,100,UV,CeO2/GO/PAM,88,10.1021/acsomega.3c00198
+5,10,0.3,120,Visible,SnO2/CeO2/TiO2,85,10.2590/S1517-707620230001.3808
+7,20,0.5,180,Soleil,Fe2TiO5,93,10.1098/rsos.200708
+7,15,0.4,150,Soleil,SnO2,92,10.1016/j.jece.2018.07.1028
+3,10,0.5,120,UV,TiO2 anatase,97,10.1016/j.matpr.2022.07.257
+7,10,0.2,90,Visible,NiO/Ag/TiO2,86,10.1021/acsomega.3c01766
+5,20,1.0,120,Visible,Mg-Al LDH@g-C3N4,98,10.1021/acsomega.3c07326
+7,20,0.3,100,LED visible,TiO2/SiO2,87,10.1007/s13201-023-02052-8
